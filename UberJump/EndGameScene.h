@@ -1,14 +1,13 @@
 //
-//  MyScene.h
+//  EndGameScene.h
 //  UberJump
 //
-
+//  Created by Ahmed Arif Khan on 2014-05-28.
 //  Copyright (c) 2014 Ahmed Khan. All rights reserved.
 //
 
 #import <SpriteKit/SpriteKit.h>
 
-@interface MyScene : SKScene
-
+@interface EndGameScene : SKScene
 
 @end
